@@ -1,0 +1,12 @@
+#divn {border-style: solid;border-width:5px ;border-color: purple;}
+.it {color: white;background-color: black;}
+a {border: 5px solid black;padding: 15px;margin: 15px;background-color: gray;color: black;border-radius: 12px;font-size: 20px;font-weight: 100;}
+div {
+    margin: 5px; 
+}
+
+a:hover {
+    background-color: purple;
+    color: white;
+    border: 5px solid pink;
+}
